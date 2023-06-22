@@ -1,0 +1,4 @@
+#Thu May 12 09:11:30 ECT 2022
+base.0=/Users/edgardopanchana/Downloads/UOCNewTrends-master-4/Activity3Solution/uocmail/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
